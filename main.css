@@ -1,0 +1,38 @@
+html{
+
+    }
+    
+body{
+    background-color: #333;
+    color: #f5f5f5;
+}
+
+a:visited{
+    color: lightblue;
+}
+a:hover, a:active{
+    color: aqua;
+}
+p{
+    color: pink;
+}
+h1{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+p1{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+p2{
+    
+    color: cornflowerblue;
+}
+p3{
+    font-size: x-large;
+    background-color: gray;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 7px solid white;
+}
